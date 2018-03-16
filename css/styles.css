@@ -3,8 +3,8 @@
   margin-right: 240px;
   border: 2px solid blue;
   padding: 4px;
-  margin: 120px;
-  background-color: yellow;
+  margin: 20px;
+  background-color: lightgray;
 }
 .side li a{
   font-style: italic;
@@ -12,16 +12,19 @@
 .center{
   text-align: center;
 }
-img{
-  margin-left: 110px;
-}
 body{
   font-family: sans-serif;
-  background-color: lightgray;
+  background-color: black;
 }
 .bold{
   font-weight: bold;
 }
 .panel-body{
   color: yellow;
+}
+h1{
+  color: white;
+}
+h3{
+  color: green;
 }
