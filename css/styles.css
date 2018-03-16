@@ -1,0 +1,20 @@
+.side{
+  float: right;
+  margin-right: 240px;
+  border: 2px solid blue;
+  padding: 4px;
+  margin: 120px;
+  background-color: yellow;
+}
+.side li a{
+  font-style: italic;
+}
+.center{
+  text-align: center;
+}
+img{
+  margin-left: 110px;
+}
+body{
+  font-family: sans-serif;
+}
