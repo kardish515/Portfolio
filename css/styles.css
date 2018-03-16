@@ -17,7 +17,11 @@ img{
 }
 body{
   font-family: sans-serif;
+  background-color: lightgray;
 }
 .bold{
   font-weight: bold;
+}
+.panel-body{
+  color: yellow;
 }
