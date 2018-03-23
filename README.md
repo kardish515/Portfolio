@@ -14,7 +14,7 @@ _This is a portfolio containing information about myself_
 
 ## Link
 
-https://github.com/kardish515/Portfolio
+[a link](kardish515.github.io/Portfolio)
 
 ### License
 
